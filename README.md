@@ -5,10 +5,7 @@ This was an excercise to recreate the HTML and CSS of a CSS Zen Garden page - CS
 
 ## Screenshots
 
-![CSS Zen Garden Screenshot 1](https://raw.githubusercontent.com/maryaliceorr/travel-diary2/master/screenshots/screenshot%201.png)
-![CSS Zen Garden Screenshot 2](https://raw.githubusercontent.com/maryaliceorr/travel-diary2/master/screenshots/screenshot%202.png)
-![CSS Zen Garden Screenshot 3](https://raw.githubusercontent.com/maryaliceorr/travel-diary2/master/screenshots/screenshot%203.png)
-![CSS Zen Garden Screenshot 4](https://raw.githubusercontent.com/maryaliceorr/travel-diary2/master/screenshots/screenshot%204.png)
+![CSS Zen Garden Screenshot 1](https://raw.githubusercontent.com/maryaliceorr/css-zen-garden/master/screenshots/Screen%20Shot%202018-04-22%20at%202.47.35%20PM.png)
 
 ## Instructions
 1. Clone down this repo, and cd into project
