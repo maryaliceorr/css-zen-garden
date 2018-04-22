@@ -1,0 +1,107 @@
+/* General________________________________*/
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: grey;
+  padding: 10px;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, helvetica, sans-serif;
+}
+
+header {
+  border-bottom: 5px solid white;
+}
+
+.header-image {
+  width: 100%;
+  display: inherit;
+  opacity: .7;
+  height: 205px;
+}
+
+
+
+h1 {
+  color: white;
+  position: absolute;
+  top: 2px;
+  right: 20px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: light;
+}
+
+span {
+  color: black;
+  position: absolute;
+  top: 40px;
+  right: 20px;
+}
+
+/* columns___________ */
+
+.body-container {
+  width: 65%;
+  border: 5px solid white;
+  margin: 0 auto;
+  position: relative;
+  background-color: #9cf;
+
+}
+.column-container {
+  display: table;
+  border: 5px;
+  border-color: white;
+}
+
+.left {
+  width: 25%;
+  border-right: 1px solid white;
+  display: table-cell;
+
+}
+.right {
+  padding: 10px 20px;
+  width: 75%;
+  display: table-cell;
+
+}
+
+/* left column article styles_______________ */
+
+
+.left section {
+  border-bottom: 1px solid white;
+
+}
+
+.right section {
+  border: none;
+}
+
+h2.gradient, h3.gradient {
+  background: radial-gradient(ellipse,#0090c0,#00334F);
+  border: 1px solid white;
+  padding: 2px 2px;
+}
+
+h2, h3 {
+  color: white;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.right article p {
+padding: 7px;
+}
+
+p, li {
+  padding: 5px;
+  font-size: 12px;
+}
+
+.drop-headers {
+  color: black;
+  font-weight: bold;
+}
